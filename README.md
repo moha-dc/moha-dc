@@ -21,18 +21,25 @@
 
 ## 🎮 Projets
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| **DROP ZONE** | Battle Royale top-down en JavaScript vanilla — carte 4000×4000, 25 joueurs, tempête, construction | [Voir →](https://github.com/moha-dc/battle-royale-game) |
-| **Profil GitHub** | Page de profil personnalisée avec stats et projets | [Voir →](https://github.com/moha-dc/moha-dc) |
+| Projet | Langage | Description | Lien |
+|--------|---------|-------------|------|
+| **DROP ZONE** | JavaScript | Battle Royale top-down — carte 4000×4000, 25 joueurs, tempête, construction | [Voir →](https://github.com/moha-dc/battle-royale-game) |
+| **Portfolio** | CSS / HTML | Portfolio personnel | [Voir →](https://github.com/moha-dc/portfolio) |
+| **Projet WordPress** | PHP | Projet web basé sur WordPress | [Voir →](https://github.com/moha-dc/projet-wp) |
+| **Bibliothèque** | PHP | Application de gestion de bibliothèque | [Voir →](https://github.com/moha-dc/bibliotheque) |
+| **Projet Meuble** | HTML | Site vitrine pour un projet meuble | [Voir →](https://github.com/moha-dc/projet_meuble) |
 
 ---
 
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moha-dc&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moha-dc&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moha-dc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moha-dc&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moha-dc&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
